@@ -1,0 +1,13 @@
+Super Simple Image Based Subreddit Reader (SSIBSB)
+
+This subreddit browser was made in my spare time and is extremely simple.
+
+How it works:
+
+1. it reads the rss feed of the subreddit you inserterd and processes this to items.
+
+2. it processes the item into title and links.
+
+3. it picks the 3rd link (wich is most likely to be the image), if it cannot find the 3rd link it will use the last possible link (most likely the reddit thread).
+
+4. it shows the image or thread.
