@@ -225,7 +225,7 @@ namespace RSS_Reader
             this.Controls.Add(this.pnlInput);
             this.Controls.Add(this.splitContainer1);
             this.Name = "frmMain";
-            this.Text = "Super Simple Image Based Subreddit Browser v0.8a";
+            this.Text = "Super Simple Image Based Subreddit Browser v0.9a";
             this.Load += new System.EventHandler(this.frmMain_Load);
             this.pnlInput.ResumeLayout(false);
             this.pnlInput.PerformLayout();
