@@ -1,0 +1,13 @@
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\obj\Debug\RSS_Reader.frmMain.resources
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\obj\Debug\RSS Reader.csproj.GenerateResource.Cache
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\obj\Debug\RSS Reader.csprojResolveAssemblyReference.cache
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\obj\Debug\SSIBSB.Properties.Resources.resources
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\bin\Debug\SSIBSB.exe.manifest
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\bin\Debug\SSIBSB.application
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\bin\Debug\SSIBSB.exe
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\bin\Debug\SSIBSB.pdb
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\obj\Debug\SSIBSB.exe.manifest
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\obj\Debug\SSIBSB.application
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\obj\Debug\SSIBSB.exe
+C:\Users\jim\Desktop\RSS Reader\RSS Reader\obj\Debug\SSIBSB.pdb
